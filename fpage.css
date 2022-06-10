@@ -1,0 +1,38 @@
+#main{
+    background: linear-gradient(rgb(201, 68, 201), white);
+    padding-top: 4%;
+}
+#fihead{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(223, 83, 153);
+   
+}
+.noone{
+    text-align: center;
+    padding-bottom: 2%;
+    font-size: 30px;
+    color: rgb(185, 61, 133);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+.inst{
+    text-align: center;
+}
+.labe{
+    padding-top: 8%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: bold;
+    font-size: 20px;
+}
+#btni{
+    background-color: white;
+    color: rgb(236, 125, 52);
+    font-size: 15px;
+}
+#mess{
+    padding-top: 100px;
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
